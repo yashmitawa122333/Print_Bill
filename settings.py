@@ -1,7 +1,4 @@
-MONGO_STRING = "mongodb+srv://mitawayash7:Yash9772@medicalstore." \
-               "wkqlcg6.mongodb.net/?" \
-               "retryWrites=true&w" \
-               "=majority"
+MONGO_STRING = "<Enter your mongo string>"
 DATABASE = "meditech"
 
 medicine_names = [
